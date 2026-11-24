@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Muskan 👋
 
-<!--
-**13Muskan/13Muskan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Java | C++ | Python | Cloud & Distributed Systems
 
-Here are some ideas to get you started:
+Software Engineer with experience in enterprise software development, storage systems, debugging, and application support.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building scalable backend applications, exploring distributed systems, and solving complex engineering problems.
+
+### 💻 Technical Skills
+
+- **Languages:** C, C++, Java, Python, SQL
+- **Backend:** Spring Boot, REST APIs, Microservices
+- **Cloud & DevOps:** AWS, GCP, Docker, Kubernetes, Jenkins
+- **Data:** Kafka, PySpark, Pandas, NumPy
+- **Tools:** Git, Linux, GitHub Actions
+
+### 🚀 Featured Projects
+
+- Distributed File Storage System – Building a fault-tolerant file storage solution.
+- Intelligent Log Analyzer – Python-based application log analysis and error detection.
+- Cloud-Native Microservices – Containerized Java microservices application.
+- Real-Time Data Pipeline – Streaming data processing using Kafka and PySpark.
+
+### 📫 Connect With Me
+
+- LinkedIn: [Your LinkedIn URL]
+- Email: [Your professional email]
+- GitHub: [Your GitHub URL]
