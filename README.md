@@ -23,6 +23,6 @@ I enjoy building scalable backend applications, exploring distributed systems, a
 
 ### 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your professional email]
-- GitHub: [Your GitHub URL]
+- LinkedIn: https://www.linkedin.com/in/muskan-tomar/
+- Email: muskantomar009@gmail.com
+- GitHub: https://github.com/13Muskan
